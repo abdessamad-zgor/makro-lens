@@ -1,0 +1,19 @@
+{
+  "name": "makro-lens",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:abdessamad-zgor/makro-lens.git",
+  "author": "abdessamad-zgor <abdessamadzgor@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chrome": "^0.0.258",
+    "@types/node": "^20.11.5",
+    "esbuild": "^0.19.11",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {},
+  "type": "module",
+  "scripts": {
+    "build": "node build.js"
+  }
+}
